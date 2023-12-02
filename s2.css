@@ -1,0 +1,32 @@
+.s2h {
+    color: #462B20;
+    font-size: 58px;
+    font-family: Instrument serif;
+    font-weight: 400;
+    line-height: 61px;
+    word-wrap: break-word;
+    text-align: center;
+}
+
+.lis {
+    width: 100%;
+    color: #462B20;
+    font-size: 26px;
+    font-family: Instrument serif;
+    font-weight: 400;
+    line-height: 28px;
+    word-wrap: break-word
+}
+
+.lic {
+    width: 100%;
+    color: rgba(65.96, 41.26, 31.04, 0.85);
+    font-size: 15px;
+    font-family: serif;
+    font-weight: 400;
+    line-height: 23px;
+    word-wrap: break-word
+}
+.header{
+    padding-bottom: 5%;
+}
